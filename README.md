@@ -2,7 +2,7 @@
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
-You can play the game at: http://githubschool.github.io/github-games/
+You can play the game at: http://saurinsshah.github.io/github-games/
 
 Press space to play the game.
 
